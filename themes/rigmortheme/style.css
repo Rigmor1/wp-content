@@ -1,0 +1,24 @@
+/*
+ Theme Name:   rigmortheme
+ Theme URI:    http://localhost/rigmorpt/index.php/home/
+ Description:  My childetheme for portfolio
+ Author:       Rigmor Lyck Hansen
+ Author URI:   http://example.com
+ Template:     Sierra Nature
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachild
+*/
+
+body {
+
+    background-color: gainsboro;
+}
+
+
+h1 {
+ font-family: Bodoni 72 Oldstyle !important;
+
+}
